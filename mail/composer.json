@@ -1,0 +1,17 @@
+{
+    "name": "packages/mail",
+    "authors": [
+        {
+            "name": "canhht",
+            "email": "canhht@scuti.asia"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Packages\\Mail\\": "packages/mail/src/",
+            "Packages\\Mail\\Generator\\": "packages/mail/src/generator/",
+            "Packages\\Mail\\Providers\\": "packages/mail/src/providers/"
+        }
+    }
+}
