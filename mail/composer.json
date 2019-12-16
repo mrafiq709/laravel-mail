@@ -1,5 +1,6 @@
 {
-    "name": "packages/mail",
+    "name": "scuti/mail-generator",
+    "description": "Mail generator is packages allow generator data structure, replace mail content to send email and insert mail log to your database.",
     "authors": [
         {
             "name": "canhht",
