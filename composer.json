@@ -7,12 +7,11 @@
             "email": "canhht@scuti.asia"
         }
     ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Packages\\Mail\\": "packages/mail/src/",
-            "Packages\\Mail\\Generator\\": "packages/mail/src/generator/",
-            "Packages\\Mail\\Providers\\": "packages/mail/src/providers/"
+            "Scuti\\Mail\\": "src/"
         }
     }
 }
